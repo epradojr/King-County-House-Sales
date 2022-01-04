@@ -32,8 +32,8 @@ Please review our full analysis in our [Jupyter Notebook](./King_House_Sales.ipy
 
 For any additional questions, please contact
 
-Gregory Han: @gmail.com <br />
-Ferit Yikar: @gmail.com <br />
+Gregory Han: gregoryhhan@gmail.com <br />
+Ferit Yikar: yikarferit@gmail.com <br />
 Edel Prado: edel.prado.jr@gmail.com <br />
 
 
