@@ -12,7 +12,7 @@ Big Cat Construction is looking for areas to build new homes in the King County 
 *
 ***
 ## Business Problem
-The company is looking to develope a strategy for building new homes in King County. To come up with a strategy, Big Cat Construction needs data on what area is best suited for potential home sales. With that in mind, we looked into which zipcodes had the highest home sales and the types of homes sold. The result of these finding will provide information on which steps Big Cat Construction should take to have a higher chance of homes being sold.
+The company is looking to develope a strategy for building new homes in King County. To come up with a strategy, Big Cat Construction needs data on what area is best suited for potential home sales. With that in mind, we looked into which zipcodes had the highest home sales and home features. The result of these finding will provide information on which areas Big Cat Construction should consider when building new homes. 
 ***
 ## Data
 This project analysed data from the  King County House Sales database. This database provided key information on ...
