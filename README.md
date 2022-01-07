@@ -2,7 +2,7 @@
 
 **Authors:** _Gregory Han, Ferit Yikar, Edel Prado_
 
-![family_matters_prgm_logo](images\title.png)
+<img src="images\title.png" width=100%>
 
 ## Overview
 This project analyzes the King County Housing data to create a recommendation on which homes to buy for financially struggling families. Descriptive analysis of home features, location, and grade show that some zip codes are better suited for buying houses. The King County Housing Authority can use this analysis to better select homes with the least amount of investment.
