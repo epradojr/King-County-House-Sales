@@ -2,7 +2,7 @@
 
 **Authors:** _Gregory Han, Ferit Yikar, Edel Prado_
 
-<img src="images\title.png" width=100%>
+<img src="images\title.PNG" width=100%>
 
 ## Overview
 This project analyzes the King County Housing data to create a recommendation on which homes to buy for financially struggling families. Descriptive analysis of home features, location, and grade show that some zip codes are better suited for buying houses. The King County Housing Authority can use this analysis to better select homes with the least amount of investment.
