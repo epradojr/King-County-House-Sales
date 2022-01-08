@@ -21,6 +21,49 @@ This project uses the U.S Census for 2015 which estimates that the average famil
 ***
 ## Results
 
+### Relationships of Features and Price
+Our first step was to take a look at the relationships with price within the dataset.
+
+<img src="images\heatmap.png" width=80%>
+
+
+### Model
+Based on r^2 and RMSE values, we decided to go with linear comprehensive log model.
+
+<img src="images\visualization_of_all_models.png" width=80%><br>
+
+### Features of a Home
+Our next process was to look at the home features and their significance vs price.
+
+Here you can see that grade and square feet living play major roles for determining price
+<img src="images\significance_of_features.png" width=80%><br>
+
+
+### Three Bedroom Home Maps
+We used our model and specifications to find the kind of house we need and used a algorithm to determine how much that house would cost in different areas. In this case, we looked for three bedroom homes and visualized it on a map.
+
+The more north you go, the prices of homes start to increase. Where as you go south, houses become much cheaper. 
+
+The zip code map on the top shows the areas of lowest average price of homes (where the darker the colored area, the higher the price)  while the bottom depicts the location of homes and their price (where  the darker the color the cheaper it is). We would recommend buying homes in the lighter areas of the zip code map.
+
+<img src="images\3_bedroom_map.PNG" width=80%>
+
+<img src="images\3_bedroom__home_price_map.PNG" width=80%><br>
+
+
+### Four Bedroom Home Maps
+Here we have our 4 bedroom version which we used our algorithm again to determine how much a house would cost in different zip codes. Note that we have fewer zip codes with cheaper homes compared to 3 bedroom homes
+
+<img src="images\4_bedroom_map.PNG" width=80%>
+
+<img src="images\4_bedroom__home_price_map.PNG" width=80%> <br>
+
+
+### Linear Regression Model
+For each data point, we checked against our model. It looks like our model does a decent job with predicting price!
+
+<img src="images\price_predictions_vs_actual_price.png" width=80%>
+
 ***
 ## Conclusion
 This analysis gives us three recommendations for purchasing homes for KCHA's Family Matters Program:
